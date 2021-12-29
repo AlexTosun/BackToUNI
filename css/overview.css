@@ -49,7 +49,7 @@
 .overview_section {
     width: 100%;
     height: 6%;
-    background: var(--selected);
+    background: var(--unselected);
     opacity: 1;
     position: absolute;
     top: 9%;

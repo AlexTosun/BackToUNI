@@ -57,7 +57,7 @@
 .overview_text {
     width: 30%;
     height: 5%;
-    color: rgba(221, 226, 255, 1);
+    color: rgba(164, 166, 179, 1);
     position: absolute;
     top: 22px;
     left: 78px;
@@ -250,7 +250,7 @@
 .settings_text {
     width: 40%;
     height: 5%;
-    color: rgba(164, 166, 179, 1);
+    color: #cdd0d1 ;
     position: absolute;
     top: 607px;
     left: 79px;
